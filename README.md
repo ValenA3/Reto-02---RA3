@@ -34,10 +34,10 @@ Ampliación de RAM: Subir a 8GB en la VM para mejorar la multitarea pesada.<br>
 Automatización: Configurar tareas de limpieza de archivos temporales cada semana.<br>
 Backup: Implementar una copia de seguridad automática de la unidad a un servidor externo.<br>
 
-Los pasos seguidos para instalar Windows:
-1.Instalar .iso de w11
-2.Meter .iso en virtualbo y configurar ram, cpus y almacenamiento
-3.Abrir y configurar todo desde w11
+**Los pasos seguidos para instalar Windows:**<br>
+1.Instalar .iso de w11<br>
+2.Meter .iso en virtualbox y configurar ram, cpus y almacenamiento<br>
+3.Abrir y configurar todo desde w11<br>
 
 **Conclusión Final**<br>
 El equipo ha sido configurado siguiendo los requerimientos de la empresa. Despues de las pruebas, se confirma que el sistema es estable, seguro y permite trabajar de forma fluida con las herramientas de Google.

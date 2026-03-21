@@ -8,4 +8,6 @@ He elegido 2 nucleos ya que un Windows moderno requiere al menos 2 núcleos para
 ![ram y cpu](../../emg/e1/cap1-2.PNG)<br>
 El user admin esta destinado a tareas de mantenimiento, instalación de software y configuración del sistema y el user estandar es el perfil de uso diario
 ![admin](../../emg/e1/cap3user.PNG)
-![loading](../../emg/e1/cap4.PNG)
+![loading](../../emg/e1/cap4.PNG) <br>
+He elegido la version 25H2 por ser una de las mas recientes y estable en 2026.
+![loading](../../emg/e1/capver.PNG)

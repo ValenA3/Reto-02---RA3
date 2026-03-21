@@ -6,16 +6,28 @@
 Hipervisor: VirtualBox.<br>
 Recursos: 4GB RAM / 2 CPUs / 50GB Disco (Justificado por los 8GB del host).<br>
 SO: Windows 11 Home.<br>
+![ram y cpu](retos/emg/e1/cap1-2.PNG)<br>
 
 **Ejercicio 2: Software de Oficina**<br>
 Google Chrome: Navegador principal para Google. <br>
 7-Zip: Gestión de archivos comprimidos.<br>
 Adobe Reader: Lector de PDF.<br>
-
+![ram y cpu](retos/emg/e2/capgoogle.PNG)<br>
+![ram y cpu](retos/emg/e2/capzip.PNG)<br>
+![ram y cpu](retos/emg/e2/cappdf.PNG)<br>
 **Ejercicio 3: Seguridad y Mantenimiento**<br>
 Antivirus: Microsoft Defender.<br>
 Mantenimiento: Instalación de Guest Additions para rendimiento óptimo. Tambien utilio HWMonitor para ver las temperaturas y voltajes de la CPU virtual.<br>
 Pruebas: Verificación de acceso a Gmail y Google Docs.<br>
+![ram y cpu](retos/emg/e3/capseg.PNG)<br>
+![ram y cpu](retos/emg/e3/capact.PNG)<br>
+
+**Pruebas realizadas:**
+Creacion de doc
+Meter ese mismo doc a carpeta y comprimirla en 7zip
+
+**Registro de Incidencias:**
+Fallo de arranque: Error VERR_PATH_NOT_FOUND. Solución: Se eliminó el archivo .viso
 
 **Mejoras Futuras**<br>
 Ampliación de RAM: Subir a 8GB en la VM para mejorar la multitarea pesada.<br>

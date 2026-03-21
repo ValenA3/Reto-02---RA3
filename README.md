@@ -40,4 +40,4 @@ Los pasos seguidos para instalar Windows:
 3.Abrir y configurar todo desde w11
 
 **Conclusión Final**<br>
-El equipo ha sido configurado siguiendo los requerimientos de la empresa. Tras las pruebas realizadas, se confirma que el sistema es estable, seguro y permite trabajar de forma fluida con las herramientas de Google.
+El equipo ha sido configurado siguiendo los requerimientos de la empresa. Despues de las pruebas, se confirma que el sistema es estable, seguro y permite trabajar de forma fluida con las herramientas de Google.

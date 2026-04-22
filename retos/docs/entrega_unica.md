@@ -15,6 +15,10 @@ Yo meti antiX Linux, Bodhi Linux y Puppy Linux<br>
 Para comprobar que todo funcionaba bien, arrancamos el ordenador desde el USB.<br>
 Al iniciar, apareció el menú de Ventoy donde se veían todas las ISOs que se habian copiado<br><br>
 
+![isos](../emg/e1/isos.PNG)<br>
+![isos](../emg/e1/iso1.jpeg)<br>
+![isos](../emg/e1/iso2.jpeg)<br>
+
 **Instalación en el equipo**<br>
 Acceso a BIOS<br>
 Cambio de orden de arranque (USB primero)<br>
@@ -23,6 +27,20 @@ Primero probamos el puppy linux, funcionaba perfectamente y el sigueinte dia en 
 
 Sistemas instalados: puppy linux, antiX Linux y MX linux<br>
 Funcionaron correctamente<br><br>
+
+![isos](../emg/e2/g1.jpeg)<br>
+![isos](../emg/e2/g2.jpeg)<br>
+![isos](../emg/e2/g3.jpeg)<br>
+![isos](../emg/e2/g4.jpeg)<br>
+![isos](../emg/e2/g5.jpeg)<br>
+![isos](../emg/e2/g6.jpeg)<br>
+![isos](../emg/e2/g7.jpeg)<br>
+![isos](../emg/e2/g8.jpeg)<br>
+![isos](../emg/e2/g9.jpeg)<br>
+![isos](../emg/e2/g10.jpeg)<br>
+![isos](../emg/e2/g11.jpeg)<br>
+![isos](../emg/e2/g12.jpeg)<br>
+![isos](../emg/e2/g13.jpeg)<br>
 
 
 **Proceso completo**<br>
@@ -38,6 +56,8 @@ Elegimos distribuciones ligeras porque el ordenador es antiguo.<br>
 Probamos varias ISOs por si alguna fallaba.<br>
 Cuando Ventoy dejó de funcionar, buscamos otra solución usando Rufus.<br>
 Al final elegimos antiX Linux porque funcionaba bien y era estable.<br><br>
+
+
 
 
 **Errores y soluciones**<br>

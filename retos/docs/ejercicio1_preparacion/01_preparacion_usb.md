@@ -1,12 +1,12 @@
-**Objetivo**
-El objetoivo principal ha sido preparar un USB booteable con Ventoy e incluir 3 ISOs Linux
+**Objetivo** <br>
+El objetivo principal ha sido preparar un USB booteable con Ventoy e incluir 3 ISOs Linux <br>
 
-**Material utilizado**
-HP cp7800
-USB con software Ventoy
-ISOs: antiX Linux, Bodhi Linux, Puppy Linux
-![isos](../../emg/e1/isos.PNG)
+**Material utilizado** <br>
+HP cp7800 <br>
+USB con software Ventoy<br>
+ISOs: antiX Linux, Bodhi Linux, Puppy Linux<br>
+![isos](../../emg/e1/isos.PNG)<br>
 
-**Verificacion**
-Arranque desde usb
-Menu ventoy visible
+**Verificacion**<br>
+Arranque desde usb<br>
+Menu ventoy visible<br>

@@ -10,3 +10,6 @@ ISOs: antiX Linux, Bodhi Linux, Puppy Linux<br>
 **Verificacion**<br>
 Arranque desde usb<br>
 Menu ventoy visible<br>
+USB usado: USB de Tahoe<br>
+![isos](../../emg/e1/iso1.jpeg)<br>
+![isos](../../emg/e1/iso2.jpeg)<br>
